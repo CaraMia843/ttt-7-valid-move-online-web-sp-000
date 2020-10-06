@@ -5,6 +5,7 @@ def valid_move?
     return true 
   else
     false
+  end
 end
 
 
